@@ -1,0 +1,366 @@
+[
+  {
+    "title": "WIKI — Grupo Ora",
+    "sector": "Geral",
+    "tags": [
+      "Wiki",
+      "Onboarding"
+    ],
+    "url": "00_HOME.md",
+    "desc": "Repositório central de conhecimento: procedimentos, políticas, links úteis, materiais de treinamento, scripts de atendimento, documentação de clientes e projetos.",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Banco de Links",
+    "sector": "Geral",
+    "tags": [
+      "Links",
+      "Recursos"
+    ],
+    "url": "11_Banco_de_Links.md",
+    "desc": "- RFB (e-CAC):",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Glossário (Inicial)",
+    "sector": "Geral",
+    "tags": [
+      "Glossário"
+    ],
+    "url": "12_Glossario.md",
+    "desc": "- **IBS** — Imposto sobre Bens e Serviços (Reforma Tributária).",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "FAQ",
+    "sector": "Geral",
+    "tags": [
+      "FAQ"
+    ],
+    "url": "13_FAQ.md",
+    "desc": "**Onde coloco anexos?**",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Governança da Wiki",
+    "sector": "Governança",
+    "tags": [
+      "Governanca",
+      "Processos"
+    ],
+    "url": "01_Governanca/01_Governanca_da_Wiki.md",
+    "desc": "Definir **regras de organização, atualização e qualidade** da Wiki do Grupo Ora.",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "{TÍTULO DA PÁGINA}",
+    "sector": "Governança",
+    "tags": [
+      "Template",
+      "Qualidade"
+    ],
+    "url": "01_Governanca/02_Modelo_de_Pagina.md",
+    "desc": "**Estado:** Rascunho | Em revisão | Aprovado",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Operacional — Contábil",
+    "sector": "Operacional",
+    "tags": [
+      "Contábil",
+      "Operacional"
+    ],
+    "url": "02_Operacional/Contabil.md",
+    "desc": "- Fechamento mensal (checklist)",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Operacional — Fiscal",
+    "sector": "Operacional",
+    "tags": [
+      "Fiscal",
+      "Operacional"
+    ],
+    "url": "02_Operacional/Fiscal.md",
+    "desc": "- Emissão de NF-e (operações diversas)",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Operacional — Pessoal (DP)",
+    "sector": "Operacional",
+    "tags": [
+      "DP",
+      "RH"
+    ],
+    "url": "02_Operacional/Pessoal_DP.md",
+    "desc": "- Admissão / Demissão (checklists)",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "{NOME DO CLIENTE}",
+    "sector": "Clientes",
+    "tags": [
+      "Cliente",
+      "Onboarding"
+    ],
+    "url": "03_Clientes/_TEMPLATE_Cliente.md",
+    "desc": "- CNPJ:",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Modaitech — Dossiê do Cliente (Exemplo)",
+    "sector": "Clientes",
+    "tags": [
+      "Cliente",
+      "Modaitech",
+      "Exemplo"
+    ],
+    "url": "03_Clientes/EXEMPLO_Modaitech.md",
+    "desc": "- CNPJ: 00.000.000/0000-00",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "{NOME DO PROJETO}",
+    "sector": "Projetos",
+    "tags": [
+      "Projeto",
+      "PM"
+    ],
+    "url": "04_Projetos/_TEMPLATE_Projeto.md",
+    "desc": "Objetivo, escopo, não-escopo, entregáveis.",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "POP — {TÍTULO}",
+    "sector": "Fiscal",
+    "tags": [
+      "POP",
+      "Procedimento"
+    ],
+    "url": "05_Procedimentos_POP/_TEMPLATE_POP.md",
+    "desc": "Descrever o passo a passo para {processo}.",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "POP — Emissão de NF-e de Remessa para Entrega Futura (Modelo 55)",
+    "sector": "Fiscal",
+    "tags": [
+      "Fiscal",
+      "NF-e",
+      "EntregaFutura",
+      "Modelo55"
+    ],
+    "url": "05_Procedimentos_POP/POP_Entrega_Futura_Mod55_EXEMPLO.md",
+    "desc": "Padronizar a emissão de **NF-e (Mod. 55)** para **remessa para entrega futura**, garantindo conformidade e rastreabilidade.",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Athenas3000 — Guia & Perguntas",
+    "sector": "TI",
+    "tags": [
+      "Athenas3000",
+      "ERP"
+    ],
+    "url": "06_Software_Base/Athenas3000.md",
+    "desc": "- Cadastros (clientes, produtos, CFOP)",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Athenas Online — Guia Rápido",
+    "sector": "TI",
+    "tags": [
+      "AthenasOnline"
+    ],
+    "url": "06_Software_Base/AthenasOnline.md",
+    "desc": "Liste telas-chave, rotinas críticas, parametrizações por UF e dúvidas frequentes.",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "SSparisi — Guia & Perguntas",
+    "sector": "TI",
+    "tags": [
+      "SSparisi"
+    ],
+    "url": "06_Software_Base/SSparisi.md",
+    "desc": "- O que ainda faz sentido documentar?",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Script — {{Nome do Fluxo}}",
+    "sector": "Comercial",
+    "tags": [
+      "Script",
+      "Atendimento"
+    ],
+    "url": "07_Scripts_Atendimento/_TEMPLATE_Script.md",
+    "desc": "Garantir atendimento padronizado, acolhedor e assertivo.",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Script — Onboarding Cliente (Lucro Real)",
+    "sector": "Comercial",
+    "tags": [
+      "Onboarding",
+      "LucroReal"
+    ],
+    "url": "07_Scripts_Atendimento/Script_Onboarding_Cliente_Lucro_Real.md",
+    "desc": "**Abertura:**",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "ATA DE REUNIÃO — {TÍTULO}",
+    "sector": "Geral",
+    "tags": [
+      "Template",
+      "Reunião"
+    ],
+    "url": "08_Templates_Documentos/ATA_Reuniao_TEMPLATE.md",
+    "desc": "**Data:** 2025-09-26",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Checklist — Onboarding de Cliente",
+    "sector": "Geral",
+    "tags": [
+      "Onboarding",
+      "Checklist"
+    ],
+    "url": "08_Templates_Documentos/Checklist_Onboarding_TEMPLATE.md",
+    "desc": "- [ ] Contrato assinado",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Modelo — Carta Proposta (Resumo Executivo)",
+    "sector": "Geral",
+    "tags": [
+      "Proposta",
+      "Comercial"
+    ],
+    "url": "08_Templates_Documentos/Carta_Proposta_TEMPLATE.md",
+    "desc": "**Contexto:**",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Política de Gestão Documental",
+    "sector": "Governança",
+    "tags": [
+      "Política",
+      "Documentos"
+    ],
+    "url": "09_Políticas/Politica_Gestao_Documental.md",
+    "desc": "- Armazenamento primário: Google Drive (estrutura por cliente/área).",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Política de Controle de Acesso à Wiki",
+    "sector": "Governança",
+    "tags": [
+      "Política",
+      "Segurança"
+    ],
+    "url": "09_Políticas/Politica_Controle_Acesso_Wiki.md",
+    "desc": "- Perfis por papel (Owner, Steward, Editor, Leitor).",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Calendário Fiscal 2025 (Estrutura)",
+    "sector": "Geral",
+    "tags": [
+      "Calendário",
+      "Fiscal"
+    ],
+    "url": "10_Calendarios/Calendario_Fiscal_2025.md",
+    "desc": "- Obrigações Federais: [...]",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Treinamento — Métricas Orçamentárias para 2025 (Esboço)",
+    "sector": "Treinamentos",
+    "tags": [
+      "Treinamento",
+      "Orçamentário",
+      "2025"
+    ],
+    "url": "14_Treinamentos/Metricas_Orcamentarias_2025.md",
+    "desc": "Orientar gestores educacionais sobre indicadores e decisões financeiras para 2025.",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Indicadores & BI (Estrutura)",
+    "sector": "Geral",
+    "tags": [
+      "Indicadores",
+      "BI"
+    ],
+    "url": "15_BI_Indicadores/Indicadores_Estrutura.md",
+    "desc": "- Receita, margem, CAC, LTV",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "ATA DE REUNIÃO — {TÍTULO}",
+    "sector": "Geral",
+    "tags": [
+      "Template",
+      "Reunião"
+    ],
+    "url": "16_Reunioes/ATA_TEMPLATE.md",
+    "desc": "**Data:** 2025-09-26",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Reunião — Planejamento Estratégico do Escritório (Exemplo)",
+    "sector": "Geral",
+    "tags": [
+      "Reunião",
+      "Estratégia"
+    ],
+    "url": "16_Reunioes/Reuniao_Planejamento_Estrategico_EXEMPLO.md",
+    "desc": "**Data:** 2025-09-26",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Onboarding — Guia de Execução",
+    "sector": "Geral",
+    "tags": [
+      "Onboarding",
+      "Cliente"
+    ],
+    "url": "17_Onboarding/Onboarding_Guia.md",
+    "desc": "1) Assinatura de proposta",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "EFD-Contribuições — Extração PIS/COFINS (2017–2020)",
+    "sector": "Fiscal",
+    "tags": [
+      "SPED",
+      "EFDContribuicoes",
+      "PISCOFINS"
+    ],
+    "url": "18_Compliance_Sped_EFD/EFD_Contribuicoes_Extracao_PIS_COFINS.md",
+    "desc": "Padronizar a extração dos dados de PIS/COFINS de recibos de EFD-Contribuições para planilha consolidada.",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Guia de Estilo — Comunicação",
+    "sector": "Marketing",
+    "tags": [
+      "Branding",
+      "Comunicação"
+    ],
+    "url": "19_Marketing_Branding/Guia_de_Estilo.md",
+    "desc": "Criativo, cativante, acolhedor, moderno e **sábio**.",
+    "updated": "2025-09-26"
+  },
+  {
+    "title": "Canais & Conteúdo (Resumo)",
+    "sector": "Marketing",
+    "tags": [
+      "Canais",
+      "Conteúdo"
+    ],
+    "url": "20_Canais/Plano_Canais_Resumo.md",
+    "desc": "- YouTube — pautas técnicas e institucionais",
+    "updated": "2025-09-26"
+  }
+]
